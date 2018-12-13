@@ -1,0 +1,6 @@
+
+[ ] library with all the words included
+[ ] random choice of one of the words to be used for the game
+[ ] scan and compare between the letter given by the user and the letters constituting the word
+[ ] tell the position of the letter if it exists or decrease the score
+[ ] if all the word is corret before the user's life is null the user wins else game over
